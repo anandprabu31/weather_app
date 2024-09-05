@@ -1,0 +1,56 @@
+.weather{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqrnUvWSnzFQ5nRYVJMkb-p6Tc_ZUNgBbCg&s'); /* Adjust the path based on your file location */
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+}
+.city{
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqrnUvWSnzFQ5nRYVJMkb-p6Tc_ZUNgBbCg&s'); /* Adjust the path based on your file location */
+  background-size: cover; 
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+
+}
+.bold-text {
+  font-weight: bold;
+}
+ .head{
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqrnUvWSnzFQ5nRYVJMkb-p6Tc_ZUNgBbCg&s'); /* Adjust the path based on your file location */
+  background-size: cover; 
+  background-position: center;
+  background-repeat: no-repeat;
+ }
+
+
+/* .head {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqrnUvWSnzFQ5nRYVJMkb-p6Tc_ZUNgBbCg&s');
+  position: absolute; */
+  /* top: 0; /* Position at the top of the viewport */
+  /* left: 0;
+  width: 100%; */
+  /* background-color: #f0f0f0; Adjust background color as needed */ 
+   /* padding: 10px; Add padding for spacing */
+  /* text-align: center; */
+
+
+.App{
+  background-image: url('https://img.freepik.com/free-vector/digital-cloud-pattern-background-connection-technology_53876-119493.jpg?ga=GA1.1.1406661475.1724000195&semt=ais_hybrid'); /* Adjust the path based on your file location */
+  background-size: cover; 
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+
+}
+.footer {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqrnUvWSnzFQ5nRYVJMkb-p6Tc_ZUNgBbCg&s');
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #f0f0f0;
+  padding: 10px; 
+  text-align: center;
+}
